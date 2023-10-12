@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/rockhoppers-wiki/locations/solar-system/earth/earth/"}
 ---
 
+# Earth
 #Solar_System #Earth 
 
 [Earth](https://en.wikipedia.org/wiki/Earth) is the third planet from the [[Rockhoppers Wiki/Locations/Solar System/Sun\|Sun]] and the only astronomical object known to naturally harbor life. This is enabled by Earth being a water world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's surface. The remaining 29.2% of Earth's surface is land, most of which is located in the form of continental landmasses. Most of Earth's land is somewhat humid and covered by vegetation, while large sheets of ice at Earth's polar deserts retain significant quantities of water.
