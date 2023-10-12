@@ -3,3 +3,5 @@
 ---
 
 FFFFFF
+
+[[Digital Garden/Home\|Home]]
