@@ -8,7 +8,7 @@
 - [[Rockhoppers Wiki/Locations/Solar System/Venus\|Venus]]
 - [[Rockhoppers Wiki/Locations/Solar System/Earth/Earth\|Earth]]
 	- [[Rockhoppers Wiki/Locations/Solar System/Earth/Luna\|Luna]]
-- [[Rockhoppers Wiki/Locations/Solar System/Mars\|Mars]]
+- [[Rockhoppers Wiki/Locations/Solar System/Mars/Mars\|Mars]]
 - [[Rockhoppers Wiki/Locations/Solar System/Asteroid Belt/Asteroid Belt\|Asteroid Belt]]
 	- [[Rockhoppers Wiki/Locations/Solar System/Asteroid Belt/Ceres\|Ceres]]
 - [[Rockhoppers Wiki/Locations/Solar System/Jupiter/Jupiter\|Jupiter]]
