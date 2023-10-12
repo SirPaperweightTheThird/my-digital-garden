@@ -2,15 +2,18 @@
 {"dg-publish":true,"permalink":"/rockhoppers-wiki/home/","tags":["gardenEntry"]}
 ---
 
-[[Rockhoppers Wiki/FFFF\|FFFF]]
-dg-home: true
-dg-publish: true
-cssclass: dashboard
 # Planets
-
-- ![Mercury1.png](/img/user/Pics/Mercury1.png) Mercury
-- ![Venus1.png](/img/user/Pics/Venus1.png) Venus
- Venus
+- ☿️ [[Rockhoppers Wiki/Locations/Mercury\|Mercury]]
+- ♀️ [[Rockhoppers Wiki/Locations/Venus\|Venus]]
+- ♁ [[Rockhoppers Wiki/Locations/Earth/Earth\|Earth]]
+- ♂️ [[Rockhoppers Wiki/Locations/Mars\|Mars]]
+- ⚳ [[Rockhoppers Wiki/Locations/Asteroid Belt/Asteroid Belt\|Asteroid Belt]]
+- ♃ [[Rockhoppers Wiki/Locations/Jupiter/Jupiter\|Jupiter]]
+- ♄ [[Rockhoppers Wiki/Locations/Saturn/Saturn\|Saturn]]
+- ♅ [[Rockhoppers Wiki/Locations/Uranus\|Uranus]]
+- ♆ [[Rockhoppers Wiki/Locations/Neptune\|Neptune]]
+- ♇ [[Rockhoppers Wiki/Locations/Kuiper Belt/Kuiper Belt\|Kuiper Belt]]
+# Other
 - 👨‍👩‍👦 Objectives
     - Family Recipes
     - Family Calendar
