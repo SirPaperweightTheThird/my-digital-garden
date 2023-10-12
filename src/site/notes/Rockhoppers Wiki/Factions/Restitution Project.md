@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/rockhoppers-wiki/factions/restitution-project/"}
+---
+
+The Restitution Project is an intergovernmental organization whose stated purposes are to halt the process of anthropogenic climate change, to protect [[Rockhoppers Wiki/Locations/Solar System/Earth/Earth\|Earth]]'s biosphere, and to preserve the planet's livable environment for future generations. To these ends, the Restitution Project engages in planetary engineering or terraforming, deliberately modifying Earth's atmosphere, temperature, surface topography, and ecology using resources extracted from across the Solar System. In the 24th century, the Restitution Project is widely understood to be a world government, with jurisdictional authority superseding all sovereign states.
+
+The United Nations Council on Climate Restoration (UNCCR) was established following the 2049 South Asian Heat Wave. It succeeded the UN Intergovernmental Panel on Climate Change, and aimed at coordinating multinational political, economic, and infrastructural efforts to repair Earth's biosphere. Its authority was originally limited, but expanded over time in response to the challenges posed by climate change. The 2084 Addis Ababa Conference formally separated the UNCCR from the United Nations, renamed it the Restitution Project, and gave it a wider portfolio of powers and privileges.
+
+When human migration into outer space began in the 22nd century, the Restitution Project took responsibility for oversight in the extraterrestrial colonies. Earth's [[Orbital Ring\|Orbital Ring]] was completed in 2156, drastically increasing the population living off-planet. The advent of nuclear fusion power in the 2210s opened the Outer Solar System to human habitation. In 2250, the [[Rockhoppers Wiki/Factions/External Service\|External Service]] was founded to centralize the governance of extraterrestrial humanity.
