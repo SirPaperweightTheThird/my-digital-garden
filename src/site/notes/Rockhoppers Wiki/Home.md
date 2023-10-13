@@ -12,20 +12,42 @@ The reality is, of course, more complicated.
 
 ---
 # The Solar System
-- [[Rockhoppers Wiki/Locations/Solar System/Sun\|The Sun]]
-- [[Rockhoppers Wiki/Locations/Solar System/Mercury\|Mercury]]
-- [[Rockhoppers Wiki/Locations/Solar System/Venus\|Venus]]
-- [[Rockhoppers Wiki/Locations/Solar System/Earth/Earth\|Earth]]
-	- [[Rockhoppers Wiki/Locations/Solar System/Earth/Luna\|Luna]]
-- [[Rockhoppers Wiki/Locations/Solar System/Mars/Mars\|Mars]]
-- [[Rockhoppers Wiki/Locations/Solar System/Asteroid Belt/Asteroid Belt\|Asteroid Belt]]
-	- [[Rockhoppers Wiki/Locations/Solar System/Asteroid Belt/Ceres\|Ceres]]
-- [[Rockhoppers Wiki/Locations/Solar System/Jupiter/Jupiter\|Jupiter]]
-- [[Rockhoppers Wiki/Locations/Solar System/Saturn/Saturn\|Saturn]]
-- [[Rockhoppers Wiki/Locations/Solar System/Uranus\|Uranus]]
-- [[Rockhoppers Wiki/Locations/Solar System/Neptune\|Neptune]]
-- [[Rockhoppers Wiki/Locations/Solar System/Kuiper Belt/Kuiper Belt\|Kuiper Belt]]
-	- [[Rockhoppers Wiki/Locations/Solar System/Kuiper Belt/Pluto\|Pluto]]
+- Inner Planets
+	- [[Rockhoppers Wiki/Locations/Solar System/Sun\|The Sun]]
+	- [[Rockhoppers Wiki/Locations/Solar System/Mercury\|Mercury]]
+	- [[Rockhoppers Wiki/Locations/Solar System/Venus\|Venus]]
+	- [[Rockhoppers Wiki/Locations/Solar System/Earth/Earth\|Earth]]
+		- [[Rockhoppers Wiki/Locations/Solar System/Earth/Luna\|Luna]]
+	- [[Rockhoppers Wiki/Locations/Solar System/Mars/Mars\|Mars]]
+		- Phobos
+		- Deimos
+	- [[Rockhoppers Wiki/Locations/Solar System/Asteroid Belt/Asteroid Belt\|Asteroid Belt]]
+		- [[Rockhoppers Wiki/Locations/Solar System/Asteroid Belt/Ceres\|Ceres]]
+- Outer Planets
+	- [[Rockhoppers Wiki/Locations/Solar System/Jupiter/Jupiter\|Jupiter]]
+		- Ganymede
+		- Callisto
+		- Io
+		- Europa
+	- [[Rockhoppers Wiki/Locations/Solar System/Saturn/Saturn\|Saturn]]
+		- Titan
+		- Rhea
+		- Iapetus
+		- Dione
+		- Tethys
+		- Enceladus
+		- Mimas
+	- [[Rockhoppers Wiki/Locations/Solar System/Uranus\|Uranus]]
+		- Titania
+		- Oberon
+		- Umbriel
+		- Ariel
+		- Miranda
+	- [[Rockhoppers Wiki/Locations/Solar System/Neptune\|Neptune]]
+		- Triton
+	- [[Rockhoppers Wiki/Locations/Solar System/Kuiper Belt/Kuiper Belt\|Kuiper Belt]]
+		- [[Rockhoppers Wiki/Locations/Solar System/Kuiper Belt/Pluto\|Pluto]]
+			- Charon
 
 ---
 
